@@ -61,6 +61,35 @@ html {
       margin-bottom: 1.5rem; 
   }
 
+.container2 .title
+{
+font-family: montserrat;
+color:hsl(228, 12%, 48%);
+letter-spacing: 3px;
+font-size: 14.5px;
+text-transform: uppercase;
+margin-bottom: 1.5rem;
+
+}
+  .container2 .text
+
+  {
+      font-family: "montserrat";
+      font-size: 14px;
+      color:hsl(228, 12%, 48%);
+      line-height: 20px;
+      margin-bottom: 1.5rem;
+  }
+
+  .cost
+  {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      margin-bottom: 1.5rem;
+  }
+
+  
   .after-discount
   {
       color: hsl(158, 36%, 37%);
